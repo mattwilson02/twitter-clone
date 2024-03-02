@@ -6,4 +6,4 @@ For now I will not connect to a database, but rather mock my responses.
 
 ### Usage
 
-`cargo run`
+📦 `cargo run` 
