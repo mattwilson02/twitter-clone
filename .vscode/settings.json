@@ -1,3 +1,15 @@
 {
-    "workbench.colorTheme": "Dekirisu's Entropy"
+    "workbench.colorTheme": "Dekirisu's Entropy",
+    "rust-analyzer.linkedProjects": [
+        "./Cargo.toml",
+        "./Cargo.toml",
+        "./Cargo.toml",
+        "./Cargo.toml",
+        "./Cargo.toml",
+        "./Cargo.toml",
+        "./Cargo.toml",
+        "./Cargo.toml",
+        "./Cargo.toml"
+    ],
+    "rust-analyzer.showUnlinkedFileNotification": false
 }
