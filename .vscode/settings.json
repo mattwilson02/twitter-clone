@@ -1,5 +1,5 @@
 {
-    "workbench.colorTheme": "Dekirisu's Entropy",
+    "workbench.colorTheme": "Expo Dark",
     "rust-analyzer.linkedProjects": [
         "./Cargo.toml",
         "./Cargo.toml",
